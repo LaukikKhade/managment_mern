@@ -12,11 +12,3 @@ Admin Module:
 Administrators are responsible for managing the entire system through an admin panel. The dashboard provides an overview of key metrics such as the total number of registered patients, doctors, and booked appointments. Admins can also manage doctor accounts, review appointment activities, and oversee the overall workflow of the platform.
 
 This application demonstrates a complete healthcare management solution that integrates role-based access control, an intuitive user interface, and secure online payment functionality to ensure smooth interaction between patients, doctors, and administrators.
-
-If you want, I can also:
-
-Convert this into a strong resume project description (3–4 lines)
-
-Write a GitHub README version
-
-Make it ATS-friendly for placements.
